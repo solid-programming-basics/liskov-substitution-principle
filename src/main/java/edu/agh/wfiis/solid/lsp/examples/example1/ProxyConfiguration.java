@@ -1,4 +1,4 @@
-package edu.agh.wfiis.solid.lsp;
+package edu.agh.wfiis.solid.lsp.examples.example1;
 
 public class ProxyConfiguration extends AbstractConfiguration {
 
