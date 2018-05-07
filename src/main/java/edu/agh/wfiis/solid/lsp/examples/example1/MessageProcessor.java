@@ -1,5 +1,5 @@
-package edu.agh.wfiis.solid.lsp;
+package edu.agh.wfiis.solid.lsp.examples.example1;
 
-class Flow {
+class MessageProcessor {
     //irrelevant from this example's perspective - just to make project compile
 }
